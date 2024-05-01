@@ -33,6 +33,7 @@ Set LPORT <PORT attacker> this is the PORT used as a connection entry point betw
 
 Exploit is a command to start an exploit between the attacker and the victim's device that has been previously
 connected.
+
 ![image](https://github.com/amalrajpc/Reverse-TCP-Vulnerability/assets/102909507/7b0409cb-699e-4668-bfe1-80b0cd08968d)
 
 ![image](https://github.com/amalrajpc/Reverse-TCP-Vulnerability/assets/102909507/f6f46734-08a0-45bb-83e6-7263c70c78ed)
