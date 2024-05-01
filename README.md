@@ -18,3 +18,6 @@ msfvenom can be used to create payloads.
 
 
 Metasploit console in the kali linux used as a connection entry point between the attacker and the victim.
+
+![image](https://github.com/amalrajpc/Reverse-TCP-Vulnerability/assets/102909507/966f41e8-3c55-4867-9ec4-d4228b9a255f)
+
