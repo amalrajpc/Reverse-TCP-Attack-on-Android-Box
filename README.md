@@ -15,6 +15,9 @@ msfvenom can be used to create payloads.
 
 ![msfvenom](https://github.com/amalrajpc/Reverse-TCP-Vulnerability/assets/102909507/78456489-0775-4a95-91db-e4d886252dbf)
 
+once the payload is created, Attacker move this payload into target device. In thase case of android based devices, attaker create paload 
+in the form of Android apk and install this apk in the target device.
+
 Open the Metasploit console in the kali Linux terminal by typing "msfconsole."
 After the Metasploit console opens, then type the command "use multi/handler"
 Next set the payload by typing "set payload android/meterpreter/reverse_tcp"
