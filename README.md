@@ -9,8 +9,12 @@ The attacker machine has a listener port on which it receives the connection, wh
 
 
 The attacker creates a payload written using a bash shell script. This shell script carries the process payload in different forms. 
-For example, in the case of Android, the shell script carries the payload in the form of an Android apk.
+For example, in the case of Android devices, the shell script payload can be carried in the form of an Android apk.
 
 msfvenom can be used to create payloads.
+
+![msfvenom](https://github.com/amalrajpc/Reverse-TCP-Vulnerability/assets/102909507/78456489-0775-4a95-91db-e4d886252dbf)
+
+
 
 Metasploit console in the kali linux used as a connection entry point between the attacker and the victim.
